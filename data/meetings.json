@@ -1,0 +1,44 @@
+[
+  {
+    "id": "IMC-VIP-01",
+    "name": "Dr. Rajesh Sharma",
+    "email": "r.sharma@airtel-labs.com",
+    "org": "Airtel 5G/6G Innovation Labs",
+    "topic": "6G Sub-THz Mesh Co-Development & Field Pilot",
+    "date": "Day 1 (Oct 7, 2026)",
+    "time": "11:30 AM - 11:50 AM",
+    "notes": "Interested in field trials for Yashobhoomi micro-cells.",
+    "booth": "Hall 3, Booth #E-342",
+    "venue": "Yashobhoomi (IICC), Dwarka, New Delhi",
+    "host": "Utkarsh Patwa",
+    "createdAt": "2026-10-06T04:28:57.362Z"
+  },
+  {
+    "id": "IMC-VIP-02",
+    "name": "Vikramaditya Singhania",
+    "email": "vikram@peakxv-deeptech.vc",
+    "org": "Peak XV DeepTech Ventures",
+    "topic": "Seed Round Investment ($2.0M Allocation)",
+    "date": "Day 2 (Oct 8, 2026)",
+    "time": "02:00 PM - 02:20 PM",
+    "notes": "Evaluation of TSMC MPW Tapeout timeline and IP portfolio.",
+    "booth": "Hall 3, Booth #E-342",
+    "venue": "Yashobhoomi (IICC), Dwarka, New Delhi",
+    "host": "Utkarsh Patwa",
+    "createdAt": "2026-10-06T04:28:57.362Z"
+  },
+  {
+    "id": "IMC-VIP-03",
+    "name": "Ananya Deshmukh",
+    "email": "ananya.d@qualcomm.com",
+    "org": "Qualcomm Edge Computing India",
+    "topic": "Neuromorphic Silicon IP Licensing & Benchmark Review",
+    "date": "Day 3 (Oct 9, 2026)",
+    "time": "03:30 PM - 03:50 PM",
+    "notes": "Reviewing 18.4 TOPS/Watt INT4 Spiking Neural Network benchmarks.",
+    "booth": "Hall 3, Booth #E-342",
+    "venue": "Yashobhoomi (IICC), Dwarka, New Delhi",
+    "host": "Utkarsh Patwa",
+    "createdAt": "2026-10-06T04:28:57.362Z"
+  }
+]
